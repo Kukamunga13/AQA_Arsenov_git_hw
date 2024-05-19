@@ -1,0 +1,5 @@
+Теория автотестов
+JS
+TS
+git
+playwright
